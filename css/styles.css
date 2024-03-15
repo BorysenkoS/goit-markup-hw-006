@@ -1236,6 +1236,11 @@ img {
   letter-spacing: 0.4px;
 }
 
+.mobile-address-link:hover,
+.mobile-address-link:focus {
+  color: #404bbf;
+}
+
 .mobile-address-item:not(:last-child) {
   margin-bottom: 24px;
 }
